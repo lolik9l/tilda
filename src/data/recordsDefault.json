@@ -1,0 +1,46 @@
+[
+  {
+    "componentName": "blockText",
+    "categoryName": "texts",
+    "visibility": "true",
+    "content": {
+      "head": "Lorem",
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus veniam ipsam quos dicta explicabo deleniti laborum ipsum illo consequatur! Ipsam est mollitia dolore. Consequuntur laudantium quo numquam neque ex ea!\n\tVoluptatum nam iste eum asperiores, provident porro voluptatem, velit inventore ipsa alias hic itaque debitis nobis commodi in aliquid perspiciatis sit adipisci. Asperiores obcaecati quos alias iure cupiditate, rem dicta.\n\tPerspiciatis sunt minus magnam, amet aperiam sapiente quos mollitia sit quis voluptates accusantium facere porro, suscipit sequi est magni. Unde impedit autem labore culpa dignissimos nisi quod laudantium quia voluptatum?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus veniam ipsam quos dicta explicabo deleniti laborum ipsum illo consequatur! Ipsam est mollitia dolore. Consequuntur laudantium quo numquam neque ex ea!\n\tVoluptatum nam iste eum asperiores, provident porro voluptatem, velit inventore ipsa alias hic itaque debitis nobis commodi in aliquid perspiciatis sit adipisci. Asperiores obcaecati quos alias iure cupiditate, rem dicta.\n\tPerspiciatis sunt minus magnam, amet aperiam sapiente quos mollitia sit quis voluptates accusantium facere porro, suscipit sequi est magni. Unde impedit autem labore culpa dignissimos nisi quod laudantium quia voluptatum?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus veniam ipsam quos dicta explicabo deleniti laborum ipsum illo consequatur! Ipsam est mollitia dolore. Consequuntur laudantium quo numquam neque ex ea!\n\tVoluptatum nam iste eum asperiores, provident porro voluptatem, velit inventore ipsa alias hic itaque debitis nobis commodi in aliquid perspiciatis sit adipisci. Asperiores obcaecati quos alias iure cupiditate, rem dicta.\n\tPerspiciatis sunt minus magnam, amet aperiam sapiente quos mollitia sit quis voluptates accusantium facere porro, suscipit sequi est magni. Unde impedit autem labore culpa dignissimos nisi quod laudantium quia voluptatum?",
+      "titles": {
+        "head": "Введите заголовок: ",
+        "text": "Введите текст: "
+      }
+    },
+    "library": {
+      "head": "Блок с текстом",
+      "desc": "Текст посередине"
+    },
+    "setting": {
+      "width": "auto",
+      "height": "auto"
+    }
+  },
+  {
+    "componentName": "blockCover",
+    "categoryName": "cover",
+    "visibility": "true",
+    "content": {
+      "img": "test.jpg",
+      "head": "Lorem2",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus veniam ipsam quos dicta explicabo deleniti laborum ipsum illo consequatur! Ipsam est mollitia dolore. Consequuntur laudantium quo numquam neque ex ea!\n\tVoluptatum nam iste eum asperiores, provident porro voluptatem, velit inventore ipsa alias hic itaque debitis nobis commodi in aliquid perspiciatis sit adipisci. Asperiores obcaecati quos alias iure cupiditate, rem dicta.\n\tPerspiciatis sunt minus magnam, amet aperiam sapiente quos mollitia sit quis voluptates accusantium facere porro, suscipit sequi est magni. Unde impedit autem labore culpa dignissimos nisi quod laudantium quia voluptatum?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus veniam ipsam quos dicta explicabo deleniti laborum ipsum illo consequatur! Ipsam est mollitia dolore. Consequuntur laudantium quo numquam neque ex ea!\n\tVoluptatum nam iste eum asperiores, provident porro voluptatem, velit inventore ipsa alias hic itaque debitis nobis commodi in aliquid perspiciatis sit adipisci. Asperiores obcaecati quos alias iure cupiditate, rem dicta.\n\tPerspiciatis sunt minus magnam, amet aperiam sapiente quos mollitia sit quis voluptates accusantium facere porro, suscipit sequi est magni. Unde impedit autem labore culpa dignissimos nisi quod laudantium quia voluptatum?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus veniam ipsam quos dicta explicabo deleniti laborum ipsum illo consequatur! Ipsam est mollitia dolore. Consequuntur laudantium quo numquam neque ex ea!\n\tVoluptatum nam iste eum asperiores, provident porro voluptatem, velit inventore ipsa alias hic itaque debitis nobis commodi in aliquid perspiciatis sit adipisci. Asperiores obcaecati quos alias iure cupiditate, rem dicta.\n\tPerspiciatis sunt minus magnam, amet aperiam sapiente quos mollitia sit quis voluptates accusantium facere porro, suscipit sequi est magni. Unde impedit autem labore culpa dignissimos nisi quod laudantium quia voluptatum?",
+      "titles": {
+        "head": "Введите заголовок: ",
+        "desc": "Введите описание: ",
+        "img": "Загрузите фоновое изображение"
+      }
+    },
+    "library": {
+      "head": "Блок с текстом и фоновой картинкой",
+      "desc": "Текст на фоне картинки"
+    },
+    "setting": {
+      "width": "auto",
+      "height": "auto"
+    }
+  }
+]
